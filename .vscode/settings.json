@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "xstring": "c",
-        "atomic": "c"
+        "atomic": "c",
+        "stats.h": "c"
     }
 }
